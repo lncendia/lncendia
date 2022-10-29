@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Egor, I'm a .NET developer.
 - 👀 I'm interested in web applications, bots and desktop programs.
+- ⏳ Now I'm developing a website for watching movies and YouTube together.
 - 📫 My telegram: @Incendia23.
 
 ``` C#
