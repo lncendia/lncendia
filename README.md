@@ -5,7 +5,7 @@
 
 ``` C#
 Incendia? incendia = await _uow.IncendiaRepository.Value.GetAsync(14112003);
-if(incendia == null) throw new IncendiaIsBusyException();
+if (incendia == null) throw new IncendiaIsBusyException();
 Coffee coffee = new Moccachino(1);
 incendia.DoJob(coffee);
 await _uow.IncendiaRepository.Value.UpdateAsync(incendia);
